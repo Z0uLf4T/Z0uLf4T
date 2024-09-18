@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on becoming a Software developer
 - 🌱 I’m currently learning React and Next.js
-- 👯 I’m seeking an Apprenticeship in a company willing to help improve my skills.
+- 👯 I’m seeking an Apprenticeship in a company willing to help me improve my skills.
 - 📫 How to reach me: A.Zoulfat@gmail.com
 
 ## 🌐 Socials:
